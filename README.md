@@ -78,8 +78,8 @@ Passos para Executar com Docker Compose
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/math-schenatto/cep-weather.git
+cd cep-weather
 ```
 2. Execute o projeto com Docker Compose:
 ```bash
